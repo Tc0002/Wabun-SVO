@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "name": "Wabun-SVO-Standard",
+  "particles": {
+    "は": "h", "が": "g", "を": "w", "に": "n", "の": "n", 
+    "で": "d", "と": "t", "へ": "e", "も": "m"
+  },
+  "verbs": {
+    "する": "s", "した": "st", "している": "str", "である": "dr"
+  },
+  "structure": {
+    "terminator": "o",
+    "delimiter": " ",
+    "svo_order": true
+  }
+}
